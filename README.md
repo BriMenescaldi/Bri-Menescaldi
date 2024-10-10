@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
 
-#### Environments
+#### Entornos
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
