@@ -9,7 +9,7 @@
 </p>
 
 
-## 📬📥 Contacto
+## 📬 📥 Contacto
 
 &nbsp; 
 <a href="https://www.linkedin.com/in/brisa-menescaldi-57984b181/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
