@@ -1,9 +1,7 @@
-# Brisa 👩🏼‍💻
-
-## - Técnica Universitaria en Inteligencia Artificial 🤖🚀
+# Brisa 👩🏼‍💻 - Técnica Universitaria en Inteligencia Artificial 🤖🚀
 
 <p align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FFFFFF&size=25&center=false&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
 </p>
 
 <p align="center">
