@@ -1,6 +1,7 @@
 # Hey there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
+
 
  
  <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
