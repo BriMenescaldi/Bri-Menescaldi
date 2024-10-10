@@ -1,16 +1,17 @@
 # BRISA 👩🏼‍💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
+## - Técnica Universitaria en Inteligencia Artificial 🤖🚀
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&vCenter=true&width=500&height=50&lines=Data+Science;IA;Data+Analytics;BI+Analyst;Python+Developer" />
+</p>
 
- 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" />
 </p>
 
-## - Técnica Universitaria en Inteligencia Artificial 🤖🚀
-
 <hr>
+
 
 
 <!---
