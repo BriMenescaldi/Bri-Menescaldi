@@ -8,26 +8,24 @@
     <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" />
 </p>
 
+
 <hr>
 
 <br/>
 
-## 
-
-## &nb
-&nbsp; &nbsp; 📬📥 &nbsp; Contacto
+## &nbsp; &nbsp; 📬📥 &nbsp; Contacto
 
 <br/>
 
-<p align="center">
-&nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/brisa-menescaldi-57984b181/">
-    <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
-</a> 
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:bmenescaldi@gmail.com">
-    <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-</a>
+<p align="left">
+    &nbsp; &nbsp; &nbsp; &nbsp; 
+    <a href="https://www.linkedin.com/in/brisa-menescaldi-57984b181/">
+        <img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/>
+    </a> 
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:bmenescaldi@gmail.com">
+        <img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    </a>
 </p>
 
 <hr>
